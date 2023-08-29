@@ -1,1 +1,1 @@
-# LeetCode_Problems-SQL-Python
+# LeetCode_Problems-SQL 50
